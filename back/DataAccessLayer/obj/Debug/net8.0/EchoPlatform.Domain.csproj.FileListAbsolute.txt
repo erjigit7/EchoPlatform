@@ -1,0 +1,11 @@
+C:\Users\Erjigit\Projects\EchoPlatform\DataAccessLayer\bin\Debug\net8.0\EchoPlatform.Domain.deps.json
+C:\Users\Erjigit\Projects\EchoPlatform\DataAccessLayer\bin\Debug\net8.0\EchoPlatform.Domain.dll
+C:\Users\Erjigit\Projects\EchoPlatform\DataAccessLayer\bin\Debug\net8.0\EchoPlatform.Domain.pdb
+C:\Users\Erjigit\Projects\EchoPlatform\DataAccessLayer\obj\Debug\net8.0\EchoPlatform.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Erjigit\Projects\EchoPlatform\DataAccessLayer\obj\Debug\net8.0\EchoPlatform.Domain.AssemblyInfoInputs.cache
+C:\Users\Erjigit\Projects\EchoPlatform\DataAccessLayer\obj\Debug\net8.0\EchoPlatform.Domain.AssemblyInfo.cs
+C:\Users\Erjigit\Projects\EchoPlatform\DataAccessLayer\obj\Debug\net8.0\EchoPlatform.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Erjigit\Projects\EchoPlatform\DataAccessLayer\obj\Debug\net8.0\EchoPlatform.Domain.dll
+C:\Users\Erjigit\Projects\EchoPlatform\DataAccessLayer\obj\Debug\net8.0\refint\EchoPlatform.Domain.dll
+C:\Users\Erjigit\Projects\EchoPlatform\DataAccessLayer\obj\Debug\net8.0\EchoPlatform.Domain.pdb
+C:\Users\Erjigit\Projects\EchoPlatform\DataAccessLayer\obj\Debug\net8.0\ref\EchoPlatform.Domain.dll

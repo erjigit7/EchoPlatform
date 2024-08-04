@@ -1,0 +1,11 @@
+C:\Users\Erjigit\Projects\EchoPlatform\DataAccessLayer\bin\Debug\net8.0\EchoPlatform.DataAccessLayer.deps.json
+C:\Users\Erjigit\Projects\EchoPlatform\DataAccessLayer\bin\Debug\net8.0\EchoPlatform.DataAccessLayer.dll
+C:\Users\Erjigit\Projects\EchoPlatform\DataAccessLayer\bin\Debug\net8.0\EchoPlatform.DataAccessLayer.pdb
+C:\Users\Erjigit\Projects\EchoPlatform\DataAccessLayer\obj\Debug\net8.0\EchoPlatform.DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Erjigit\Projects\EchoPlatform\DataAccessLayer\obj\Debug\net8.0\EchoPlatform.DataAccessLayer.AssemblyInfoInputs.cache
+C:\Users\Erjigit\Projects\EchoPlatform\DataAccessLayer\obj\Debug\net8.0\EchoPlatform.DataAccessLayer.AssemblyInfo.cs
+C:\Users\Erjigit\Projects\EchoPlatform\DataAccessLayer\obj\Debug\net8.0\EchoPlatform.DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\Erjigit\Projects\EchoPlatform\DataAccessLayer\obj\Debug\net8.0\EchoPlatform.DataAccessLayer.dll
+C:\Users\Erjigit\Projects\EchoPlatform\DataAccessLayer\obj\Debug\net8.0\refint\EchoPlatform.DataAccessLayer.dll
+C:\Users\Erjigit\Projects\EchoPlatform\DataAccessLayer\obj\Debug\net8.0\EchoPlatform.DataAccessLayer.pdb
+C:\Users\Erjigit\Projects\EchoPlatform\DataAccessLayer\obj\Debug\net8.0\ref\EchoPlatform.DataAccessLayer.dll

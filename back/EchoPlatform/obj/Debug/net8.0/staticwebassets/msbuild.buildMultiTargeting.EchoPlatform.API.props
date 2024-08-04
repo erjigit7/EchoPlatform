@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\EchoPlatform.API.props" />
+</Project>

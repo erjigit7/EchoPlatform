@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "EchoPlatform.Application/1.0.0": {
+        "dependencies": {
+          "EchoPlatform.Domain": "1.0.0"
+        },
+        "runtime": {
+          "EchoPlatform.Application.dll": {}
+        }
+      },
+      "EchoPlatform.Domain/1.0.0": {
+        "runtime": {
+          "EchoPlatform.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "EchoPlatform.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "EchoPlatform.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

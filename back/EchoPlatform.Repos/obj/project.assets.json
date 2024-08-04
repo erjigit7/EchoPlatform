@@ -1,0 +1,96 @@
+{
+  "version": 3,
+  "targets": {
+    "net8.0": {
+      "EchoPlatform.Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/EchoPlatform.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/EchoPlatform.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "EchoPlatform.Domain/1.0.0": {
+      "type": "project",
+      "path": "../DataAccessLayer/EchoPlatform.Domain.csproj",
+      "msbuildProject": "../DataAccessLayer/EchoPlatform.Domain.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net8.0": [
+      "EchoPlatform.Domain >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Erjigit\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\Erjigit\\Projects\\EchoPlatform\\EchoPlatform.Repos\\EchoPlatform.Application.csproj",
+      "projectName": "EchoPlatform.Application",
+      "projectPath": "C:\\Users\\Erjigit\\Projects\\EchoPlatform\\EchoPlatform.Repos\\EchoPlatform.Application.csproj",
+      "packagesPath": "C:\\Users\\Erjigit\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Erjigit\\Projects\\EchoPlatform\\EchoPlatform.Repos\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\Erjigit\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net8.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "projectReferences": {
+            "C:\\Users\\Erjigit\\Projects\\EchoPlatform\\DataAccessLayer\\EchoPlatform.Domain.csproj": {
+              "projectPath": "C:\\Users\\Erjigit\\Projects\\EchoPlatform\\DataAccessLayer\\EchoPlatform.Domain.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+      }
+    },
+    "frameworks": {
+      "net8.0": {
+        "targetAlias": "net8.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

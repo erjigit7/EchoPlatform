@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "gYkTyCmuoSyfVZrP6J8wo7ztdKoD4k2YapX3shX5aYg=",
+  "Source": "EchoPlatform.API",
+  "BasePath": "_content/EchoPlatform.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

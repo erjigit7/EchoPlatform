@@ -1,0 +1,11 @@
+C:\Users\Erjigit\Projects\EchoPlatform\EchoPlatform.Repos\bin\Debug\net8.0\EchoPlatform.Repos.deps.json
+C:\Users\Erjigit\Projects\EchoPlatform\EchoPlatform.Repos\bin\Debug\net8.0\EchoPlatform.Repos.dll
+C:\Users\Erjigit\Projects\EchoPlatform\EchoPlatform.Repos\bin\Debug\net8.0\EchoPlatform.Repos.pdb
+C:\Users\Erjigit\Projects\EchoPlatform\EchoPlatform.Repos\obj\Debug\net8.0\EchoPlatform.Repos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Erjigit\Projects\EchoPlatform\EchoPlatform.Repos\obj\Debug\net8.0\EchoPlatform.Repos.AssemblyInfoInputs.cache
+C:\Users\Erjigit\Projects\EchoPlatform\EchoPlatform.Repos\obj\Debug\net8.0\EchoPlatform.Repos.AssemblyInfo.cs
+C:\Users\Erjigit\Projects\EchoPlatform\EchoPlatform.Repos\obj\Debug\net8.0\EchoPlatform.Repos.csproj.CoreCompileInputs.cache
+C:\Users\Erjigit\Projects\EchoPlatform\EchoPlatform.Repos\obj\Debug\net8.0\EchoPlatform.Repos.dll
+C:\Users\Erjigit\Projects\EchoPlatform\EchoPlatform.Repos\obj\Debug\net8.0\refint\EchoPlatform.Repos.dll
+C:\Users\Erjigit\Projects\EchoPlatform\EchoPlatform.Repos\obj\Debug\net8.0\EchoPlatform.Repos.pdb
+C:\Users\Erjigit\Projects\EchoPlatform\EchoPlatform.Repos\obj\Debug\net8.0\ref\EchoPlatform.Repos.dll
